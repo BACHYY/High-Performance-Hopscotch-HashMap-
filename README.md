@@ -14,7 +14,7 @@
 
 HashMap <string, string> hash_map;
 hash_map["Hello"] = "world!";
-hash_map["name"] = "Aydar";
+hash_map["name"] = "Ahmed";
 if (hash_map.count("Hello")) {
   std::cout << "Hello " << hash_map["Hello"] << '\n';
 }
